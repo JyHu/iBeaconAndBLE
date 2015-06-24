@@ -1,0 +1,2 @@
+# iBeaconAndBLE
+使用iBeacon在程序杀死的情况下唤醒BLE功能
